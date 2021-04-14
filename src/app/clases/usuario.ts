@@ -4,5 +4,6 @@ export class Usuario {
     contrasenia:string="";
 
     constructor() {
+        
     }
 }
